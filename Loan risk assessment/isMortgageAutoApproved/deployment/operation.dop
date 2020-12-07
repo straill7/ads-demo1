@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.ibm.rules.studio.model.decisionservice:Operation xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ibm.rules.studio.model.decisionservice="http://com.ibm.rules.studio/model/decisionservice.ecore" rulesetName="operation" targetRuleProjectName="isMortgageAutoApproved">
+  <name>isMortgageAutoApproved</name>
+  <uuid>4cbcefff-0027-43bb-b4e2-fdc3c6f81d88</uuid>
+  <decisionModel href="../rules/decisionModel.dmo#34fb62c6-1a42-4a37-8da8-4e26f2b3e57a"/>
+  <targetRuleProject href="../../isMortgageAutoApproved#1254f3f9-5a24-4d98-a2c6-173ef4e6e5b9"/>
+</com.ibm.rules.studio.model.decisionservice:Operation>
